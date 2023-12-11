@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a Full-Stack Developer in Qbtech AB
 
 ## Languages and Tools:
-![Github]([https://your-image-url.type](https://github.com/))
+![Github](https://github.com/)
 
 <!--
 **TalhaSultan/TalhaSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
