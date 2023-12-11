@@ -3,8 +3,7 @@
 - 🔭 I’m currently working as a Full-Stack Developer in Qbtech AB
 
 ## Languages and Tools:
-<img src="https://github.com/fluidicon.png" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100">
+<img src="https://github.com/fluidicon.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100">
 
 
 <!--
