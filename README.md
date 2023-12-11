@@ -3,7 +3,12 @@
 - 🔭 I’m currently working as a Full-Stack Developer in Qbtech AB
 
 ## Languages and Tools:
-<img src="https://github.com/fluidicon.png" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="100" height="100">
+<img src="https://github.com/fluidicon.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="100" height="100">
+<img src="https://www.netlify.com/img/press/logos/logomark.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" height="100">
 
 
 <!--
