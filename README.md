@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a FullStack Software Developer interested in b
 
 ## 🔧 My Recent Work
 
-- [Project 1](QbCheck) - QbCheck is an FDA-cleared, TGA-registered medical device to empower clinicians, aid ADHD diagnosis, and treatment management.
-- [Project 2](Numetrics) - Optimize your R&D productivity with Numetrics.
-- [Project 3](PropertyEngine) - PropertyEngine develops online technologies which assist real estate developers throughout the entire property marketing, sales and management cycle, from conception to maturity and beyond.
+- [QbCheck] - QbCheck is an FDA-cleared, TGA-registered medical device to empower clinicians, aid ADHD diagnosis, and treatment management.
+- [Numetrics] - Optimize your R&D productivity with Numetrics.
+- [PropertyEngine] - PropertyEngine develops online technologies which assist real estate developers throughout the entire property marketing, sales and management cycle, from conception to maturity and beyond.
 
 ---
 
