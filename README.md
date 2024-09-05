@@ -1,14 +1,42 @@
-### Hi there 👋, I'm Hafiz Talha Sultan
+# Hi there, I'm Hafiz Talha Sultan! 👋
 
-- 🔭 I’m currently working as a Full-Stack Developer in Qbtech AB
+🌟 **Passionate Developer | Open Source Enthusiast | Lifelong Learner**
 
-## Languages and Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="100" height="100">
-<img src="https://github.com/fluidicon.png" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" width="100" height="100">
-<img src="https://www.netlify.com/img/press/logos/logomark.png" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" height="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100" height="100">
+Welcome to my GitHub profile! I'm a FullStack Software Developer interested in building impactful solutions.
+
+## About Me
+
+- 🔭 I’m currently working in Qbtech.
+- 💬 Ask me about Grails, Java, JavaScript, React, DevOps.
+- 📫 How to reach me: [Email](mailto:hafiztalhasultan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hafiz-talha-sultan/)
+
+## 🛠️ My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaSultan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSultan&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hafiz-talha-sultan/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=firefox&logoColor=white&style=flat-square)](https://hafiztalhasultan.netlify.app/)
+
+## 🔧 My Recent Work
+
+- [Project 1](QbCheck) - QbCheck is an FDA-cleared, TGA-registered medical device to empower clinicians, aid ADHD diagnosis, and treatment management.
+- [Project 2](Numetrics) - Optimize your R&D productivity with Numetrics.
+- [Project 3](PropertyEngine) - PropertyEngine develops online technologies which assist real estate developers throughout the entire property marketing, sales and management cycle, from conception to maturity and beyond.
+
+---
+
+⭐️ From [Hafiz Talha Sultan](https://github.com/TalhaSultan)
+
 
 
 <!--
